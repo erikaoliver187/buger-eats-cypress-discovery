@@ -1,0 +1,54 @@
+{
+"signup": {
+    "nome": "Fernando Papito",
+            "cpf": "00000014141",
+            "email": "erika187@gmail.com",
+            "whatsapp":"119999999999",
+            "endereco": {
+                "cep": "04534011",
+                "rua": "Rua Joaquim Floriano",
+                "numero": "1000",
+                "complemento": "Ap 142",
+                "bairro": "Itaim Bibi",
+                "cidade_uf": "São Paulo/SP"
+            },
+            "metodo_entrega": "Moto", 
+            "cnh": "cnh-digital.jpg"
+},
+
+"cpf_inv": {
+"nome": "Fernando Papito",
+"cpf": "000000141AA",
+"email": "erika187@gmail.com",
+"whatsapp":"119999999999",
+"endereco": {
+    "cep": "04534011",
+    "rua": "Rua Joaquim Floriano",
+    "numero": "1000",
+    "complemento": "Ap 142",
+    "bairro": "Itaim Bibi",
+    "cidade_uf": "São Paulo/SP"
+},
+"metodo_entrega": "Moto", 
+"cnh": "cnh-digital.jpg"
+
+     },
+
+     "email_inv": {
+        "nome": "Fernando Papito",
+                "cpf": "00000014141",
+                "email": "erika187.gmail.com",
+                "whatsapp":"119999999999",
+                "endereco": {
+                    "cep": "04534011",
+                    "rua": "Rua Joaquim Floriano",
+                    "numero": "1000",
+                    "complemento": "Ap 142",
+                    "bairro": "Itaim Bibi",
+                    "cidade_uf": "São Paulo/SP"
+                },
+                "metodo_entrega": "Moto", 
+                "cnh": "cnh-digital.jpg"
+    }
+     
+    }
