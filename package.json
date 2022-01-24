@@ -9,7 +9,7 @@
   "author": "Erika Oliver",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^9.0.0",
+    "cypress": "9.0.0",
     "cypress-cucumber-preprocessor": "^4.3.1",
     "cypress-file-upload": "^5.0.8",
     "faker": "^5.5.3",
