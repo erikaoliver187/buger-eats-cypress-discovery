@@ -12,7 +12,7 @@
     "cypress": "9.0.0",
     "cypress-cucumber-preprocessor": "^4.3.1",
     "cypress-file-upload": "^5.0.8",
-    "faker": "^6.0.0",
+    "faker": "^5.5.3",
     "gerador-validador-cpf": "^5.0.2"
   },
   "dependencies": {},
