@@ -69,7 +69,7 @@ context('Required fields', function(){
     messages.forEach(function(msg){
         it(`${msg.field} is requerid`, function(){
             signup.alertMessageShouldBe(msg.output)
-            cy.wait(70000)
+            
 
         })
     })
